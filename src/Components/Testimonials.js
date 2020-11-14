@@ -8,7 +8,7 @@ class Testimonials extends Component {
         return  <li key={testimonials.user}>
             <blockquote>
                <p>{testimonials.text}</p>
-               <cite>{testimonials.user}</cite>
+               <p>{testimonials.user}</p>
             </blockquote>
          </li>
       })

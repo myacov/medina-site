@@ -1,93 +1,119 @@
 {
   "main": {
-    "name":"Yacov Medina",
-    "occupation":"Front End Developer",
-    "description":"I'm always eager to learn, invent and discover new territories. In everything that I do, I aim to maintain a balance between great user experience and beautiful code. I'm a native English speaker",
-    "image":"profilepic.jpg",
-    "bio":"I am very highly motivated, responsible, adaptable, quick to learn new skills and driven to complete tasks and challenges. I have experience teaching ,sales, customer service, working independently and as a part of a team. In my spare time I enjoy learning foreign languages, playing guitar, photography, and cooking.",
-    "contactmessage":"Always open to new opportunities.",
+    "name": "Yacov Medina",
+    "occupation": "Fullstack Developer",
+    "description1": "With C, C++, React, NodeJS knowlage",
+    "description2": "Skilled Salesperson with excellent customer service awareness ",
+    "description3": "Math, Physics, Programing and English teacher",
+    "description4": "teaching children with ADHD",
+    "description5": "Native English speaker and USA citizen",
+    "image": "profilepic.jpg",
+    "bio": "I am very highly motivated, responsible, adaptable, quick to learn new skills and driven to complete tasks and challenges. I have experience teaching ,sales, customer service, working independently and as a part of a team. In my spare time I enjoy learning foreign languages, playing guitar, photography, and cooking.",
+    "contactmessage": "Always open to new opportunities.",
     "email": "m.yacov@gmail.com",
     "phone": "054-431-8584",
-    "address":{
-      "street":"Teller 5",
-      "city":"Rehovot",
-      "state":"Israel",
+    "address": {
+      "street": "Teller 5",
+      "city": "Rehovot",
+      "state": "Israel",
       "zip": "76455"
     },
     "website": "https://yacov-site.herokuapp.com/",
-    "resumedownload":"https://drive.google.com/file/d/1Bj3NxmStM_vi1Kjho5dW1Soqe-I-kAZm/view?usp=sharing",
-    "social":[
+    "resumedownload": "https://drive.google.com/file/d/1Bj3NxmStM_vi1Kjho5dW1Soqe-I-kAZm/view?usp=sharing",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/yacov.medina",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "http://facebook.com/yacov.medina",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/yacov-medina-86961674/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yacov-medina-86961674/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/myacov",
-        "className":"fa fa-github"
-      }  
+        "name": "github",
+        "url": "https://github.com/myacov",
+        "className": "fa fa-github"
+      }
     ]
   },
   "resume":{
     "skillmessage":"",
     "education":[
       {
-        "school":"Netcraft Academy",
-        "degree":"Front-end development",
-        "graduated":"2019",
-        "description":""
+        "school": "Netcraft Academy",
+        "degree": "Front-end development",
+        "graduated": "2019",
+        "description": "JavaScript    html5   NodeJS   React   MongoDB"
+      
       },
       {
-        "school":"Technion",
-        "degree":"Electrical Engineering B.Scs",
-        "graduated":"incomplete",
-        "description":"decided it wasn`t the right fit for me"
-      }
+        "school": "Technion",
+        "degree": "Electrical Engineering B.Scs",
+        "graduated": "Incomplete",
+        "description": "relevant courses  include programming C, C++, Data Structures and Algorithms and Computer Structure"
+      },
+    {
+      "school": "Katzir Highschool",
+      "degree": "Chemistry and physics major",
+      "graduated": "2002",
+      "description": ""
+    }
     ],
     "work":[
       {
         "company":"Passportogo",
         "title":"Salesperson",
-        "years":"november 2018 - Present",
-        "description":"Interesting customers and selling legal services for acquiring Portuguese citizenship"
+        "years":"2018 - Present",
+        "description":"Selling legal services, both locally and abroad for the purpose of obtaining a foreign citizenship and passport. Managing clients through CRM programs and upholding optimal customer service"
       },
       {
-        "company":"Leittner",
-        "title":"Teacher",
-        "years":"2015 - 2018",
-        "description":"Lessons in Math, Physics, C language and English to high school and college students."
+        "company": "Leittner",
+        "title": "Teacher",
+        "years": "2015 - 2018",
+        "description": "Lessons in Math, Physics, C language and English for elemantery to high school students."
+      },
+      {
+        "company": "Afeka",
+        "title": "Tutor and exercise checker",
+        "years": "2016 - 2018",
+        "description": "Lessons in Math and C language for collage students"
       }
     ],
-    "skills":[
+    "skills": [
+
       {
-        "name":"Git",
-        "level":"40%"
+        "name": "C",
+        "level": "70%"
       },
       {
-        "name":"NodeJs",
-        "level":"55%"
+        "name": "C++",
+        "level": "40%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "Git",
+        "level": "30%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "NodeJs",
+        "level": "55%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "ReactJs",
+        "level": "50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "40%"
       }
     ]
   },
@@ -104,8 +130,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"It is never too late to be what you might have been.",
-        "user":"George Eliot"
+        "text": "I'm always eager to learn, invent and discover new abilities. My focus is on great user experience and comprehensible code.",
+        "user": ""
       }
       
     ]
